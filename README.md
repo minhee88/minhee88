@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhee Baik</h1>
-<h3 align="center">A web publisher that understands design, creating differentiated value.</h3>
+<h3 align="center">A web publisher that understands design,
+  creating differentiated value.</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://minhee88.github.io/guerlain)
 
