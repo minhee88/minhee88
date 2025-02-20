@@ -2,18 +2,17 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Minhee+Baik;" /> -->
 <!-- 🔭 I’m currently working on [my portfolio](https://minhee88.github.io/guerlain)
 📫 How to reach me **extrnzoe@gmail.com** ### 💪 Skills-->
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> 
-    안녕하세요! 백민희 입니다. </h1>
-<p>디자인을 이해하는 웹 퍼블리셔, <br/> 
-    차별화된 가치를 창조합니다.</p>
-    <br/>    
+<h1> 디자인을 이해하는 웹 퍼블리셔, 백민희 입니다 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> 
+</h1>
+  
 
 ### ⚡Tech 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
 ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github)
 ![Web Accessibility](https://img.shields.io/badge/-Accessibility-00A98F?style=flat-square&logo=w3c&logoColor=ffffff)
