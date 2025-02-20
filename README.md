@@ -48,7 +48,7 @@ class WhoAmI = {
 ```
 <br>       
 
-### ⚡Project Career
+### ⚡Project Career (Web designer)
 
 <img src="https://kimkee.github.io/img/ss/ssDigiloca.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssReact.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssVue.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssKbstar.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssBithumbM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssBithumb.jpg" alt="SS" width="62px"> 
 <img src="https://kimkee.github.io/img/ss/ssKyobo.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssLhmk.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssAboutpet.jpg" alt="SS" width="62px"> 
