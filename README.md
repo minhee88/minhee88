@@ -11,13 +11,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github)
 ![Web Accessibility](https://img.shields.io/badge/-Accessibility-00A98F?style=flat-square&logo=w3c&logoColor=ffffff)
 ![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=ffffff)
 ![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,notion" height="22" />
+<img src="https://skillicons.dev/icons?i=vscode,notion,figma,xd,ps,ai,pr" height="22" />
 
 
 ### 👀 I'm practicing
@@ -28,7 +27,9 @@
 ![Next](https://img.shields.io/badge/-Next-444444?style=flat-square&logo=Next.js&logoColor=efefef)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 
-<!--![Nuxt](https://img.shields.io/badge/-Nuxt-00a569?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
+<!--
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
+![Nuxt](https://img.shields.io/badge/-Nuxt-00a569?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffdc34)
 ![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
