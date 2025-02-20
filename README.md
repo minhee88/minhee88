@@ -50,67 +50,7 @@ class WhoAmI = {
 
 ### ⚡Project Career (Web designer)
 
-<img src="img/pro_01.jpg" alt="SS" width="62px">
-<img src="img/pro_02.jpg" alt="SS" width="62px">
-<img src="img/pro_03.jpg" alt="SS" width="62px">
-<img src="img/pro_04.jpg" alt="SS" width="62px">
-<img src="img/pro_05.jpg" alt="SS" width="62px">
-<img src="img/pro_06.jpg" alt="SS" width="62px">
-<img src="img/pro_07.jpg" alt="SS" width="62px">
-<img src="img/pro_08.jpg" alt="SS" width="62px">
-<img src="img/pro_09.jpg" alt="SS" width="62px">
-<img src="img/pro_10.jpg" alt="SS" width="62px">
-
-<img src="img/pro_11.jpg" alt="SS" width="62px">
-<img src="img/pro_12.jpg" alt="SS" width="62px">
-<img src="img/pro_13.jpg" alt="SS" width="62px">
-<img src="img/pro_14.jpg" alt="SS" width="62px">
-<img src="img/pro_15.jpg" alt="SS" width="62px">
-<img src="img/pro_16.jpg" alt="SS" width="62px">
-<img src="img/pro_17.jpg" alt="SS" width="62px">
-<img src="img/pro_18.jpg" alt="SS" width="62px">
-<img src="img/pro_19.jpg" alt="SS" width="62px">
-<img src="img/pro_20.jpg" alt="SS" width="62px">
-
-<img src="img/pro_21.jpg" alt="SS" width="62px">
-<img src="img/pro_22.jpg" alt="SS" width="62px">
-<img src="img/pro_23.jpg" alt="SS" width="62px">
-<img src="img/pro_24.jpg" alt="SS" width="62px">
-<img src="img/pro_25.jpg" alt="SS" width="62px">
-<img src="img/pro_26.jpg" alt="SS" width="62px">
-<img src="img/pro_27.jpg" alt="SS" width="62px">
-<img src="img/pro_28.jpg" alt="SS" width="62px">
-<img src="img/pro_29.jpg" alt="SS" width="62px">
-<img src="img/pro_30.jpg" alt="SS" width="62px">
-
-<img src="img/pro_31.jpg" alt="SS" width="62px">
-<img src="img/pro_32.jpg" alt="SS" width="62px">
-<img src="img/pro_33.jpg" alt="SS" width="62px">
-<img src="img/pro_34.jpg" alt="SS" width="62px">
-<img src="img/pro_35.jpg" alt="SS" width="62px">
-<img src="img/pro_36.jpg" alt="SS" width="62px">
-<img src="img/pro_37.jpg" alt="SS" width="62px">
-<img src="img/pro_38.jpg" alt="SS" width="62px">
-<img src="img/pro_39.jpg" alt="SS" width="62px">
-<img src="img/pro_40.jpg" alt="SS" width="62px">
-
-<img src="img/pro_41.jpg" alt="SS" width="62px">
-<img src="img/pro_42.jpg" alt="SS" width="62px">
-<img src="img/pro_43.jpg" alt="SS" width="62px">
-<img src="img/pro_44.jpg" alt="SS" width="62px">
-<img src="img/pro_45.jpg" alt="SS" width="62px">
-<img src="img/pro_46.jpg" alt="SS" width="62px">
-<img src="img/pro_47.jpg" alt="SS" width="62px">
-<img src="img/pro_48.jpg" alt="SS" width="62px">
-<img src="img/pro_49.jpg" alt="SS" width="62px">
-<img src="img/pro_50.jpg" alt="SS" width="62px">
-
-<img src="img/pro_51.jpg" alt="SS" width="62px">
-<img src="img/pro_52.jpg" alt="SS" width="62px">
-<img src="img/pro_53.jpg" alt="SS" width="62px">
-<img src="img/pro_54.jpg" alt="SS" width="62px">
-<img src="img/pro_55.jpg" alt="SS" width="62px">
-<img src="img/pro_56.jpg" alt="SS" width="62px">
+<img src="img/pro_01.jpg" alt="SS" width="62px"> <img src="img/pro_02.jpg" alt="SS" width="62px"> <img src="img/pro_03.jpg" alt="SS" width="62px"> <img src="img/pro_04.jpg" alt="SS" width="62px"> <img src="img/pro_05.jpg" alt="SS" width="62px"> <img src="img/pro_06.jpg" alt="SS" width="62px"> <img src="img/pro_07.jpg" alt="SS" width="62px"> <img src="img/pro_08.jpg" alt="SS" width="62px"> <img src="img/pro_09.jpg" alt="SS" width="62px"> <img src="img/pro_10.jpg" alt="SS" width="62px"> <img src="img/pro_11.jpg" alt="SS" width="62px"> <img src="img/pro_12.jpg" alt="SS" width="62px"> <img src="img/pro_13.jpg" alt="SS" width="62px"> <img src="img/pro_14.jpg" alt="SS" width="62px"> <img src="img/pro_15.jpg" alt="SS" width="62px"> <img src="img/pro_16.jpg" alt="SS" width="62px"> <img src="img/pro_17.jpg" alt="SS" width="62px"> <img src="img/pro_20.jpg" alt="SS" width="62px"> <img src="img/pro_21.jpg" alt="SS" width="62px"> <img src="img/pro_22.jpg" alt="SS" width="62px"> <img src="img/pro_23.jpg" alt="SS" width="62px"> <img src="img/pro_24.jpg" alt="SS" width="62px"> <img src="img/pro_25.jpg" alt="SS" width="62px"> <img src="img/pro_26.jpg" alt="SS" width="62px"> <img src="img/pro_27.jpg" alt="SS" width="62px"> <img src="img/pro_28.jpg" alt="SS" width="62px"> <img src="img/pro_29.jpg" alt="SS" width="62px"> <img src="img/pro_30.jpg" alt="SS" width="62px"> <img src="img/pro_31.jpg" alt="SS" width="62px"> <img src="img/pro_32.jpg" alt="SS" width="62px"> <img src="img/pro_33.jpg" alt="SS" width="62px"> <img src="img/pro_35.jpg" alt="SS" width="62px"> <img src="img/pro_37.jpg" alt="SS" width="62px"> <img src="img/pro_38.jpg" alt="SS" width="62px"> <img src="img/pro_40.jpg" alt="SS" width="62px"> <img src="img/pro_41.jpg" alt="SS" width="62px"> <img src="img/pro_42.jpg" alt="SS" width="62px"> <img src="img/pro_43.jpg" alt="SS" width="62px"> <img src="img/pro_45.jpg" alt="SS" width="62px"> <img src="img/pro_46.jpg" alt="SS" width="62px"> <img src="img/pro_50.jpg" alt="SS" width="62px"> <img src="img/pro_51.jpg" alt="SS" width="62px"> <img src="img/pro_52.jpg" alt="SS" width="62px"> <img src="img/pro_53.jpg" alt="SS" width="62px"> <img src="img/pro_54.jpg" alt="SS" width="62px"> <img src="img/pro_55.jpg" alt="SS" width="62px"> <img src="img/pro_56.jpg" alt="SS" width="62px">
 
 
 
