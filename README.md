@@ -17,6 +17,7 @@
 ![Web Accessibility](https://img.shields.io/badge/-Accessibility-00A98F?style=flat-square&logo=w3c&logoColor=ffffff)
 ![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=ffffff)
 ![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,notion" height="22" />
 
 
 ### 👀 I'm practicing
