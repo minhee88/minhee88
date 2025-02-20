@@ -2,8 +2,7 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Minhee+Baik;" /> -->
 <!-- 🔭 I’m currently working on [my portfolio](https://minhee88.github.io/guerlain)
 📫 How to reach me **extrnzoe@gmail.com** ### 💪 Skills-->
-<h1> 디자인을 이해하는 웹퍼블리셔, 백민희 입니다 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> 
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> 디자인을 이해하는 웹퍼블리셔, 백민희 입니다 
 </h1>
   
 
