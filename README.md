@@ -27,21 +27,6 @@
 ![Next](https://img.shields.io/badge/-Next-444444?style=flat-square&logo=Next.js&logoColor=efefef)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 
-<!--
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
-![Nuxt](https://img.shields.io/badge/-Nuxt-00a569?style=flat-square&logo=Nuxt.js&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffdc34)
-![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-31a16e?style=flat-square&logo=supabase&logoColor=3ecf8e)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffca28)
-![Vercel](https://img.shields.io/badge/-Vercel-444444?style=flat-square&logo=vercel&logoColor=efefef)
-![Gitlab](https://img.shields.io/badge/Gitlab-%23302683.svg?style=flat-square&logo=Gitlab&logoColor=ffffff")
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat-square&logo=Bitbucket)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=JiraSoftware)
-![Svn](https://img.shields.io/badge/-SVN-0f80c1?style=flat-square&logo=Subversion&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)-->
 
 
 ### ⚡Status  
@@ -87,16 +72,9 @@ class WhoAmI = {
   <summary>⚡Career List </summary>
   <br>
  
-| Date | Project Name (Korean) | Project Name (English) |
+| Date | Korean Name | English Name |
 | :---: | :--- | :--- |
-| 2025-02 ~ 2099-12 | 웹퍼블리셔 | Web Publisher |
-| 2021-09 ~ 2022-04 | 교보생명 웹,모바일 구축 | Kyobo Life Web/Mobile |
-| 2021-01 ~ 2021-03 | GS리테일 어바웃펫 모바일웹,앱 구축 | GS Retail About Pet Web/App |
-| 2020-06 ~ 2020-07 | 스포츠토토 배트맨리뉴얼 구축 | Sports Toto Renewal |
-| 2018-04 ~ 2018-08 | 인스테리어 웹,앱반응형 구축 | Insterior Web/App |
-| 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 | Lotte Myom Web/Mobile |
-| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 | CJ Whistle Responsive Web |
-| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 | CJ Telenix Responsive Web |
+| 2025-02 ~ | 웹퍼블리셔 | Web Publisher |
 | 2018-11 ~ 2023-06 | 코윈스블루 웹디자이너 | KowinsBlue Web Designer |
   
 </details>
