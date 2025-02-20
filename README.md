@@ -48,14 +48,6 @@ class WhoAmI = {
 ```
 <br>       
 
-
-### VUE : <a href="https://kimkee.github.io/vue/" target="_blank">https://kimkee.github.io/vue/</a>
-
-|  챗팅 | 갤러리 | 게시판 | 상세 |
-| :-: | :-: | :-: |:-: |
-| <img src="img/ss_05.jpg" width="200px" align="top"> |<img src="img/ss_03.jpg" width="200px" align="top"> |  <img src="img/ss_01.jpg" width="200px" align="top"> | <img src="img/ss_02.jpg" width="200px" align="top"> |
-
-
 ### ⚡Project Career
 
 <img src="https://kimkee.github.io/img/ss/ssDigiloca.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssReact.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssVue.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssKbstar.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssBithumbM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssBithumb.jpg" alt="SS" width="62px"> 
