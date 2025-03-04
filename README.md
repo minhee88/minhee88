@@ -29,9 +29,9 @@
 
 
 
-### ⚡Status  
+### ⚡Portfolio  
 
-> <a href="https://github.com/minhee88" target="_blank">https://github.com/minhee88</a>
+> <a href="https://minhee88.github.io/guerlain" target="_blank">https://minhee88.github.io/guerlain</a>
 <br/>  
 
 ## Who am I?
