@@ -31,7 +31,7 @@
 
 ### ⚡Portfolio  
 
-> <a href="https://minhee88.github.io/guerlain" target="_blank">https://minhee88.github.io/guerlain</a>
+> <a href="https://minhee88.github.io/guerlain" target="_blank">https://baikminhee.github.io/portfolio</a>
 <br/>  
 
 ## Who am I?
