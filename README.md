@@ -42,7 +42,7 @@ class WhoAmI = {
     email: "extrnzoe@gmail.com",
     locate: "Incheon Korea",
     skill: ["HTML", "CSS", "Javascript", "Git", "Github"],
-    update: "2025-03-21"
+    update: "2025-04-08"
 
 };
 ```
